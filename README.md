@@ -26,7 +26,7 @@ Book-Pal is a web application designed to enhance your reading experience by pro
 
 To run Book-Pal locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Sushrut22/book-buddy.git`
+1. Clone the repository: `git clone https://github.com/Ghanshyam144/Book-Pal.git`
 
 2. You need to Install the `genre_matrix.pkl` file for this project here: [link](https://www.mediafire.com/file/6dmz4lb6denms1s/genre_matrix.pkl/file)\
    After installation, put this file in `/src/api/api/` directory.
