@@ -1,10 +1,10 @@
-# 📚 BookBuddy: Your Reading Companion
+# 📚 Book-Pal: Your Reading Companion
 
-BookBuddy is a web application designed to enhance your reading experience by providing personalized book recommendations and a convenient way to manage your reading lists. Whether you're looking for new books to explore or need assistance in organizing your reading journey, BookBuddy has got you covered.
+Book-Pal is a web application designed to enhance your reading experience by providing personalized book recommendations and a convenient way to manage your reading lists. Whether you're looking for new books to explore or need assistance in organizing your reading journey, BookBuddy has got you covered.
 
 ## Features
 
-- 🎯 **Collaborative Filtering:** BookBuddy utilizes a [collaborative filtering model](https://github.com/atharv-patil/book-buddy/blob/main/models.ipynb) to recommend books based on user preferences and interactions. Discover new titles based on the collective wisdom of fellow readers.
+- 🎯 **Collaborative Filtering:** Book-Pal utilizes a [collaborative filtering model](https://github.com/atharv-patil/book-buddy/blob/main/models.ipynb) to recommend books based on user preferences and interactions. Discover new titles based on the collective wisdom of fellow readers.
 
 - 🌟 **Popularity-Based Approach:** When you're just starting out or haven't rated any books yet, BookBuddy employs a popularity-based approach inspired by IMDb's top-rated movie formula. This default ordering of books ensures you have a starting point for exploration.
 
@@ -12,7 +12,7 @@ BookBuddy is a web application designed to enhance your reading experience by pr
 
 - ⭐ **Rated Books List:** Rate the books you've read and keep a record of your ratings. The Rated Books List allows you to view and manage your rated books, helping you remember and recommend your favorite reads.
 
-- 🌈 **User-Friendly Interface:** BookBuddy features a user-friendly interface with intuitive navigation and visually appealing design elements. Enjoy a smooth and engaging experience as you explore books and manage your reading journey.
+- 🌈 **User-Friendly Interface:** Book-Pal features a user-friendly interface with intuitive navigation and visually appealing design elements. Enjoy a smooth and engaging experience as you explore books and manage your reading journey.
 
 ## Technologies Used
 
@@ -21,11 +21,10 @@ BookBuddy is a web application designed to enhance your reading experience by pr
 - ⚛️ Frontend: ReactJS, Material UI
 - 🌐 API Integration: Openlibrary API
 - 🔗 Webhook Integration: Flask (for chatbot and backend communication)
-- ☁️ Deployment: Ngrok
 
 ## Installation
 
-To run BookBuddy locally, follow these steps:
+To run Book-Pal locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Sushrut22/book-buddy.git`
 
@@ -50,11 +49,11 @@ To run BookBuddy locally, follow these steps:
 
    `npm start`
 
-8. Access BookBuddy in your web browser at `http://localhost:3000`.
+8. Access Book-Pal in your web browser at `http://localhost:3000`.
 
 ## Usage
 
-1. Create an account or log in to your existing account on BookBuddy `(Optional)`.
+1. Create an account or log in to your existing account on Book-Pal `(Optional)`.
 2. Explore the Read List section to add books you plan to read. You can mark them as read once you finish them.
 3. Rate books you've read and manage your rated books in the Rated Books Section.
 4. Use the chatbot to get recommendations based on books you mention or your preferred genres.
@@ -62,7 +61,7 @@ To run BookBuddy locally, follow these steps:
 
 ## Video Demonstration and screenshots
 
-Watch the BookBuddy in action in our video demonstration: [BookBuddy Demo](https://www.youtube.com/watch?v=pdeWZkCaQUQ)
+Watch the Book-Pal in action in our video demonstration: [Demo](https://www.youtube.com/watch?v=pdeWZkCaQUQ)
 
 - Screenshots
   ![image](https://github.com/atharv-patil/book-buddy/assets/83455141/d57ff3c4-255d-4e25-8c61-9d4ee0167f8b)
@@ -72,14 +71,10 @@ Watch the BookBuddy in action in our video demonstration: [BookBuddy Demo](https
   ![image](https://github.com/atharv-patil/book-buddy/assets/83455141/d0f17e1d-4625-44c0-9cd8-f8e1345648ff)
   ![image](https://github.com/atharv-patil/book-buddy/assets/83455141/e568dcf0-0744-471e-8898-5d91877fa138)
 
-## Contributing
 
-Contributions to BookBuddy are welcome! If you encounter any issues or have ideas for improvements, feel free to submit a pull request or open an issue in the repository.
 
-## Collaborators
 
-BookBuddy was created by:
 
-- [@Sushrut22](https://github.com/Sushrut22) (Sushrut Lachure)
-- [@atharv-patil](https://github.com/atharv-patil) (Atharv Patil)
-- [@varshil27](https://github.com/varshil27) (Varshil Kavathiya)
+
+
+
